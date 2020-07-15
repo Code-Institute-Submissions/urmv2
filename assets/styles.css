@@ -19,13 +19,14 @@ body {
     color:  #d37a31;
     background-color: #414040;
     font-family: 'Roboto Slab', serif;
-    height: 15vh;
+    height: 100px;
     }
 
 .navbar-style a {
     color:  #d37a31;
     background-color: #414040;
-    font-family: 'Roboto Slab', serif;
+    font-family: 'Roboto Slab', serif; 
+    font-size: 20px;
     }
 
 .navbar-style li {
@@ -50,7 +51,7 @@ body {
 /* Overlay */
 
 .hmpg-head {
-    height: 70vh;
+    height: 50vh;
     background: url('../assets/images/bg_space.jpg') no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -81,6 +82,45 @@ body {
 
 .hp-img {
     display: flex;
+    position: relative;
     width: 100%;
-    height: 50vh;
+    height: 30vh;
     }
+
+.btn-warning {
+    color: #141516;
+    background-color: #d37a31;
+    border-color: #d37a31;
+}
+
+/* Media Queries */
+
+/* @media screen and (min-width: 576px) {
+  body {
+    font-size: 15px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  body {
+    font-size: 20px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  body {
+    font-size: 25px;
+  }
+}
+
+@media screen and (max-width: 992px) {
+  body {
+    font-size: 30px;
+  }
+}
+
+@media screen and (max-width: 1200px) {
+  body {
+    font-size: 40px;
+  }
+} */
