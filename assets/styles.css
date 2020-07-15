@@ -1,0 +1,43 @@
+/* body {
+    font-family: "Muli", sans-serif;
+} */
+
+/* NavBar */
+
+.navbar-logo {
+    font-weight: 800;
+    justify-content: left;
+    margin: 10px, 100px, 10px, 10px;
+    background-color: #414040;
+    }
+
+.navbar-style {
+    margin: auto;
+    color:  #d37a31;
+    background-color: #414040;
+    font-family: 'Roboto Slab', serif;
+    height: 100px;
+    }
+
+.navbar-style a {
+    color:  #d37a31;
+    background-color: #414040;
+    font-family: 'Roboto Slab', serif;
+    }
+
+.navbar-style li {
+    color:  #d37a31;
+    background-color: #414040;
+    font-family: 'Roboto Slab', serif;
+    }
+
+.btn-outline-light {
+    color: #d37a31;
+    border-color: #d37a31;
+    }
+
+.btn-outline-light:hover {
+    color: #d37a31;
+    background-color: #414040;
+    border-color: #d37a31;
+}
