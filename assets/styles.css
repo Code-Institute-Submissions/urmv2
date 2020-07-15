@@ -1,6 +1,9 @@
-/* body {
-    font-family: "Muli", sans-serif;
-} */
+/* Body */
+
+body {
+    background-color: #414040;
+}
+
 
 /* NavBar */
 
@@ -16,7 +19,7 @@
     color:  #d37a31;
     background-color: #414040;
     font-family: 'Roboto Slab', serif;
-    height: 100px;
+    height: 15vh;
     }
 
 .navbar-style a {
@@ -41,3 +44,43 @@
     background-color: #414040;
     border-color: #d37a31;
 }
+
+/* Homepage */
+
+/* Overlay */
+
+.hmpg-head {
+    height: 70vh;
+    background: url('../assets/images/bg_space.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.overlay-hmpg {
+    color:  #d37a31;
+    font-family: 'Roboto Slab', serif;
+    padding: 5px;
+    border-radius: 5px;
+} 
+
+/* Homepage Bottom */
+
+.btm-hmpg {
+    margin: auto;
+    color: #d37a31;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    text-justify: center;
+    }
+
+.hp-img {
+    display: flex;
+    width: 100%;
+    height: 50vh;
+    }
