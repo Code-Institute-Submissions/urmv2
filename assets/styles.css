@@ -80,6 +80,14 @@ body {
     text-justify: center;
     }
 
+.btm-hmpg h2 {
+    font-family: 'Roboto Slab', serif;  
+}
+
+.btm-hmpg p {
+    font-family: 'Muli', sans-serif;  
+}
+
 .hp-img {
     display: flex;
     position: relative;
@@ -95,7 +103,7 @@ body {
 
 .card-img-top {
     width: 100%;
-    height: 15vh;
+    height: 17.5vh;
     object-fit: cover;
 }
 
@@ -109,8 +117,9 @@ body {
     word-wrap: break-word;
     background-color: #414040;
     background-clip: border-box;
-    border: 1px solid rgba(0,0,0,.125);
+    border: 1px solid #d37a31;
     border-radius: .25rem;
+    padding: 10px;
 }
 
 /* Media Queries */
