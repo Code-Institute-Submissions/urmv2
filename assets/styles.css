@@ -156,6 +156,20 @@ body {
     font-size:  x-large;
 }
 
+/* Automation Blog */
+
+.auto-head {
+    height: 50vh;
+    background: url('../assets/images/robot.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
 /* Media Queries */
 
 /* @media screen and (min-width: 576px) {
