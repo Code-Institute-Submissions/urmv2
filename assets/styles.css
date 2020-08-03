@@ -19,7 +19,7 @@ body {
     color:  #d37a31;
     background-color: #414040;
     font-family: 'Roboto Slab', serif;
-    height: 10vh;
+    /* height: 10vh; */
     position: fixed;
     }
 
@@ -58,7 +58,7 @@ body {
 /* Overlay */
 
 .hmpg-head {
-    height: 50vh;
+    height: 60vh;
     background: url('../assets/images/bg_space.jpg') no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -138,9 +138,8 @@ body {
     color:  #d37a31;
     background-color: #414040;
     font-family: 'Roboto Slab', serif;
-    height: 10vmin;
+    height: 15vmin;
     align-content: center;
-    border-top: 1px solid #d37a31;
     padding-top: 20px;
     }
 
