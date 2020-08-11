@@ -138,7 +138,7 @@ body {
     color:  #d37a31;
     background-color: #414040;
     font-family: 'Roboto Slab', serif;
-    height: 15vmin;
+    height: 100px;
     align-content: center;
     padding-top: 20px;
     }
@@ -189,6 +189,33 @@ body {
     width: 100%;
     height: 50vh;
     object-fit: cover;
+}
+
+/* Contact Page */
+
+.jumbotron {    
+    padding: 2rem 1rem;
+    margin-bottom: 2rem;
+    margin-top: 5rem;
+    background-color: #d37a31;
+    color: #414040;
+    border-radius: .3rem; 
+}
+
+.jumbotron a {
+    color: #414040;
+} 
+
+.jumbotron img {
+    width: 100%;
+} 
+
+.display-4 {
+    text-transform: uppercase;
+}
+
+.table td, .table th {
+    border-top: 1px solid #343a40;
 }
 
 /* Media Queries */
