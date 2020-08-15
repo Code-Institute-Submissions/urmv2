@@ -110,7 +110,7 @@ body {
 
 .card-img-top {
     width: 100%;
-    height: 17.5vh;
+    height: 30vh;
     object-fit: cover;
 }
 
@@ -191,9 +191,17 @@ body {
     object-fit: cover;
 }
 
+.btn-primary-blog {
+    margin-top: 8px;
+    margin-bottom: 8px;
+    background-color: #d37a31; 
+    color: #414040;
+    border-color: #d37a31;
+}
+
 /* Contact Page */
 
-.jumbotron {    
+.jumbotron {  
     padding: 2rem 1rem;
     margin-bottom: 2rem;
     margin-top: 5rem;
