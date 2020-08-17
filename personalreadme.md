@@ -23,7 +23,9 @@ blog site for articles that relate to politics and the
 arts across the globe.
 
 The external user goal is to create a platform for user's 
-to learn more about the topics covered within each article. 
+to learn more about the topics covered within each article.
+While highlighting the previous work conducted by the author.
+Serving as a portfolio. 
 To complement this learning experience, other articles that 
 corroborate or could be considered as 'further reading' will 
 be included on each post.
@@ -39,7 +41,7 @@ collaboration and allow potential employers, or anyone that
 is interested in the site content, has the ability to reach 
 out to the author.
 
-Features that will be included are a landing page, three 
+Features that will be included are a landing page, two
 blog pages - including real content written by the author, and a
 contact page. This will showcase the abilities of the author
 and provide insights into current affairs. One of the main
