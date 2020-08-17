@@ -22,7 +22,7 @@ This site, *Universal Relations Media*, is a faux
 blog site for articles that relate to politics and the 
 arts across the globe.
 
-##UX
+## UX
 
 The external user goal is to create a platform for user's 
 to learn more about the topics covered within each article.
@@ -43,13 +43,13 @@ collaboration and allow potential employers, or anyone that
 is interested in the site content, has the ability to reach 
 out to the author.
 
-![Wireframe](assets/images/wireframe.pdf)
+[Wireframe](assets/images/wireframe.pdf)
 
 Due to personal limitations, I diverged from the original wireframe
 to aid the creation of my website and improve the overall aesthetic
 theme throughout the pages.
 
-##Features
+## Features
 
 Features that will be included are a landing page, two
 blog pages - including real content written by the author, and a
@@ -72,18 +72,18 @@ Once clicked, these highlight all references used within the
 content and where available online, the use is able to click
 on the link and explore the material themselves.
 
-###Features left to implement
+### Features left to implement
 
 I would of liked to have included a carousel on the bottom
 of each page to link to any of the other pages across the
 site.
 
-##Technologies Used
+## Technologies Used
 
 I have utilised basic JavaScript functionality to complement
 the use of Bootstrap's functions.
 
-##Testing
+## Testing
 
 Throughout the project, I have been viewing my site across a
 number of devices. Including mobiles, tablets, a range of monitors
@@ -115,29 +115,29 @@ In my next project, I will make sure to be more proactive in documenting
 testing as and when I encounter issues and provide the resolution that
 I arrived at to overcome said issue.
 
-##Deployment
+## Deployment
 
 I have utilised GitHub Pages to deploy this site.
 This is due to the project being wholly created within GitPod and
 utilising the public functionality of GitHub.
 
-##Credits
+## Credits
 
-###Content
+### Content
 
 All content has been written by the author and if any quotations or
 images have been used they have been referenced directly within the 
 content. This is through the Harvard referencing system, as it is the
 method that was used when creating the content in the first place.
 
-###Media
+### Media
 
 Any media that has been used across the site has either been created by
 the author, or via royalty free images found on sites such as Pixabay.
 Any images that do not conform to this have been directly referenced 
 towards.
 
-###Acknowledgements
+### Acknowledgements
 
 I have utilised extra information to allow me to create this page from
 Bootstrap's documentation and articles that can be found on W3. 
@@ -158,6 +158,6 @@ video on Youtube to aid its creation https://www.youtube.com/watch?v=L0uNai3XyKQ
 
 ![Contact Page](assets/images/respcont.png)
 
-####Port
+#### Port
 
 python3 -m http.server
