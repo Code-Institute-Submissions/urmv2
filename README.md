@@ -148,7 +148,7 @@ its Slack channels and, as a last resort, forum posts in Stack Overflow.
 I also referred to Clever Techie's Responsive Navbar with Bootstrap 4
 video on Youtube to aid its creation https://www.youtube.com/watch?v=L0uNai3XyKQ
 
-##Screenshots across different devices
+## Screenshots across different devices
 
 ![Homepage](assets/images/resphmpg.png)
 
