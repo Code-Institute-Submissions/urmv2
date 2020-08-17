@@ -1,39 +1,163 @@
-<img src="https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png" style="margin: 0;">
+#Universal Relations Media
 
-Welcome TobinStonelake,
+This is the first Milestone Project for the 
+Code Institute's Full Stack Developer course.
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project.
+In this project, we have been asked to utilise the 
+skills that have been developed with HTML, CSS and 
+a touch of JavaScript throughout the course. The use 
+of JavaScript benefits us to create a more visually 
+appealing page, while also allowing us to use as 
+many of Bootstrap's functions as possible.
 
-## Gitpod Reminders
+A further criteria for this project is aimed at writing
+this page within the remits of Responsive Design. This 
+will be adhered to and the visual impact of the pages 
+will change depending on the media query that the 
+device presents this content. By using Responsive Design 
+principles, we can create a website that functions
+efficiently and effectively across all devices.
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+This site, *Universal Relations Media*, is a faux 
+blog site for articles that relate to politics and the 
+arts across the globe.
 
-`python3 -m http.server`
+##UX
 
-A blue button should appear to click: *Make Public*,
+The external user goal is to create a platform for user's 
+to learn more about the topics covered within each article.
+While highlighting the previous work conducted by the author.
+Serving as a portfolio. 
+To complement this learning experience, other articles that 
+corroborate or could be considered as 'further reading' will 
+be included on each post.
 
-Another blue button should appear to click: *Open Browser*.
+The site owner's goal is to utilise digital platforms to 
+shape a personal portfolio of the author's academic research
+and written work. This will improve their chance of employability
+by highlighting the capabilities of the author across a 
+number of academic disciplines: Political Philosophy and 
+Full Stack Development. Indicative of this goal, is the 
+choice to include a contact page for the author to promote 
+collaboration and allow potential employers, or anyone that 
+is interested in the site content, has the ability to reach 
+out to the author.
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+![Wireframe](assets/images/wireframe.pdf)
 
-A blue button should appear to click: *Make Public*,
+Due to personal limitations, I diverged from the original wireframe
+to aid the creation of my website and improve the overall aesthetic
+theme throughout the pages.
 
-Another blue button should appear to click: *Open Browser*.
+##Features
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the backend lessons.
+Features that will be included are a landing page, two
+blog pages - including real content written by the author, and a
+contact page. This will showcase the abilities of the author
+and provide insights into current affairs. One of the main
+features of the site will be to include third party sources 
+and their appropriate links. This allows the user to explore
+the themes and content further, by their own volition. It
+gives the user a choice towards how much time they would
+like to dedicate to their own research and the capabilities
+to do so. With this in mind, free content, partially-free
+content (such as free monthly allocated articles by sources
+such as New Statesman, The Atlantic, Foreign Affairs) and 
+pay-to-view content will be balanced and included to create
+a positive user experience, shaped by their own decisions. 
 
-## Updates Since The Instructional Video
+The most interesting and time consuming feature that was added
+was the modal buttons at the bottom of the two blog pages.
+Once clicked, these highlight all references used within the
+content and where available online, the use is able to click
+on the link and explore the material themselves.
 
-We continually tweak and adjust this template to help give you the best experience. Here are the updates since the original video was made:
+###Features left to implement
 
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
+I would of liked to have included a carousel on the bottom
+of each page to link to any of the other pages across the
+site.
 
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
+##Technologies Used
 
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
+I have utilised basic JavaScript functionality to complement
+the use of Bootstrap's functions.
 
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
+##Testing
 
---------
+Throughout the project, I have been viewing my site across a
+number of devices. Including mobiles, tablets, a range of monitors
+with different ratios and utilising the inspect element capability 
+on Google Chrome to give me further insight into how the site 
+functions across devices that I do not have access to.
 
-Happy coding!
+During this period, my main focus was to ensure that the site 
+was responsive, followed its theme and was as visually appealing
+and was useable across all devices.
+
+My largest issue has been with the navigation bar and footer.
+This is due to issues with them overlapping or underlapping
+the primary page content. Their general size across the pages
+has also given me difficulties.
+
+The second issue I have run in to, is making my pictures fully 
+responsive. In some instances the pciture become cropped at certain
+media queries and I have been unable to rectify this issue within
+the timeframe of the project.
+
+There are some final little aesthetic issues that I would like to fix.
+Such as changing the hyperlink text on the index page to match
+the theme of the rest of the page. On some devices elements also become 
+slightly unaligned, such as the URM on the top right of the navigation
+bar.
+
+In my next project, I will make sure to be more proactive in documenting
+testing as and when I encounter issues and provide the resolution that
+I arrived at to overcome said issue.
+
+##Deployment
+
+I have utilised GitHub Pages to deploy this site.
+This is due to the project being wholly created within GitPod and
+utilising the public functionality of GitHub.
+
+##Credits
+
+###Content
+
+All content has been written by the author and if any quotations or
+images have been used they have been referenced directly within the 
+content. This is through the Harvard referencing system, as it is the
+method that was used when creating the content in the first place.
+
+###Media
+
+Any media that has been used across the site has either been created by
+the author, or via royalty free images found on sites such as Pixabay.
+Any images that do not conform to this have been directly referenced 
+towards.
+
+###Acknowledgements
+
+I have utilised extra information to allow me to create this page from
+Bootstrap's documentation and articles that can be found on W3. 
+
+For minor issues, I have read through the Code Institute's material, 
+its Slack channels and, as a last resort, forum posts in Stack Overflow.
+
+I also referred to Clever Techie's Responsive Navbar with Bootstrap 4
+video on Youtube to aid its creation https://www.youtube.com/watch?v=L0uNai3XyKQ
+
+##Screenshots across different devices
+
+![Homepage](assets/images/resphmpg.png)
+
+![Automation Blog](assets/images/respauto.png)
+
+![Globalisation Blog](assets/images/respglob.png)
+
+![Contact Page](assets/images/respcont.png)
+
+####Port
+
+python3 -m http.server
