@@ -108,6 +108,10 @@ body {
     border-color: #d37a31;
 }
 
+.btn-warning a {
+    color: #141516;
+}
+
 .card-img-top {
     width: 100%;
     height: 30vh;
