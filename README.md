@@ -111,6 +111,14 @@ the theme of the rest of the page. On some devices elements also become
 slightly unaligned, such as the URM on the top right of the navigation
 bar.
 
+### W3 Validators
+
+#### CSS
+
+![Test 1](assets/images/cssvalidatort1.png)
+
+![Test 2](assets/images/cssvalidatort2.png)
+
 In my next project, I will make sure to be more proactive in documenting
 testing as and when I encounter issues and provide the resolution that
 I arrived at to overcome said issue.
