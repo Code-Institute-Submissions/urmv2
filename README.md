@@ -153,6 +153,8 @@ Test 1
 Test 2
 ![Test 2](assets/images/contvalidt2.png)
 
+At present, I am unsure of how to overcome the issue relating to aria-controls, but will run through this with my mentor.
+
 In my next project, I will make sure to be more proactive in documenting
 testing as and when I encounter issues and provide the resolution that
 I arrived at to overcome said issue.
