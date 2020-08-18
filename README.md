@@ -172,6 +172,13 @@ https://webmasters.stackexchange.com/questions/60241/w3c-validation-error-aria-c
 
 Checked all links across all pages lead to the relevant pages.
 
+One visual issue that I am unable to overcome is the margins when switching to
+the Galaxy Fold emulator on Google Chrome's inspect function. Unsure whether this
+is a browser issue or an issue that relates to my code. Is not affected
+on any other emulated devices, though it does carry this issue through
+after clicking on another emulated device. This latter aspect inspires
+confidence that is a Chrome issue, rather than with my own code.
+
 In my next project, I will make sure to be more proactive in documenting
 testing as and when I encounter issues and provide the resolution that
 I arrived at to overcome the said issue.
