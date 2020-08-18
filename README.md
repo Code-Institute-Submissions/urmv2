@@ -170,6 +170,8 @@ to aria-controls but I will run through this with my mentor.
 Overcame above issue by referring to this post on Stack Exchange:
 https://webmasters.stackexchange.com/questions/60241/w3c-validation-error-aria-controls-attribute-must-point-to-an-element-in-the-sa
 
+Checked all links across all pages lead to the relevant pages.
+
 In my next project, I will make sure to be more proactive in documenting
 testing as and when I encounter issues and provide the resolution that
 I arrived at to overcome the said issue.
