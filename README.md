@@ -128,6 +128,9 @@ Test 1
 Test 2
 ![Test 2](assets/images/indexvalidt2.png)
 
+Test 3
+![Test 3](assets/images/indexvalidt3.png)
+
 #### Automation HTML
 
 Test 1
@@ -135,6 +138,9 @@ Test 1
 
 Test 2
 ![Test 2](assets/images/autovalidt2.png)
+
+Test 3
+![Test 3](assets/images/autovalidt3.png)
 
 #### Globalisation HTML
 
@@ -144,6 +150,9 @@ Test 1
 Test 2
 ![Test 2](assets/images/globvalidt2.png)
 
+Test 3
+![Test 3](assets/images/globvalidt3.png)
+
 #### Contact HTML
 
 Test 1
@@ -152,8 +161,14 @@ Test 1
 Test 2
 ![Test 2](assets/images/contvalidt2.png)
 
+Test 3
+![Test 3](assets/images/contvalidt3.png)
+
 At present, I am unsure of how to overcome the issue relating 
 to aria-controls but I will run through this with my mentor.
+
+Overcame above issue by referring to this post on Stack Exchange:
+https://webmasters.stackexchange.com/questions/60241/w3c-validation-error-aria-controls-attribute-must-point-to-an-element-in-the-sa
 
 In my next project, I will make sure to be more proactive in documenting
 testing as and when I encounter issues and provide the resolution that
