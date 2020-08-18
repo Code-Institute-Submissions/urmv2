@@ -19,8 +19,8 @@ principles, we can create a website that functions
 efficiently and effectively across all devices.
 
 This site, *Universal Relations Media*, is a faux 
-blog site for articles that relate to politics and the 
-arts across the globe.
+blog site for articles that relate to politics across 
+the globe.
 
 ## UX
 
@@ -28,6 +28,7 @@ The external user goal is to create a platform for the user
 to learn more about the topics covered within each article.
 While highlighting the previous work conducted by the author.
 Serving as a portfolio. 
+
 To complement this learning experience, other articles that 
 corroborate or could be considered as 'further reading' will 
 be included on each post.
