@@ -10,7 +10,6 @@ body {
 .navbar-logo {
     font-weight: 800;
     justify-content: left;
-    margin: 10px, 100px, 10px, 10px;
     background-color: #414040;
     }
 
@@ -19,7 +18,6 @@ body {
     color:  #d37a31;
     background-color: #414040;
     font-family: 'Roboto Slab', serif;
-    /* height: 10vh; */
     position: fixed;
     }
 
@@ -84,7 +82,6 @@ body {
     display:flex;
     align-items: center;
     justify-content: center;
-    text-justify: center;
     }
 
 .btm-hmpg h2 {
@@ -107,8 +104,6 @@ body {
     background-color: #d37a31;
     border-color: #d37a31;
 }
-
-/* Not sure why this doesn't change the colour of the link */
 
 .btn-warning a {
     color: #141516;
@@ -232,34 +227,3 @@ body {
     border-top: 1px solid #343a40;
 }
 
-/* Media Queries */
-
-/* @media screen and (min-width: 576px) {
-  body {
-    font-size: 15px;
-  }
-}
-
-@media screen and (max-width: 768px) {
-  body {
-    font-size: 20px;
-  }
-}
-
-@media screen and (max-width: 768px) {
-  body {
-    font-size: 25px;
-  }
-}
-
-@media screen and (max-width: 992px) {
-  body {
-    font-size: 30px;
-  }
-}
-
-@media screen and (max-width: 1200px) {
-  body {
-    font-size: 40px;
-  }
-} */
