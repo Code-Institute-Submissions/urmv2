@@ -115,9 +115,43 @@ bar.
 
 #### CSS
 
+Test 1
 ![Test 1](assets/images/cssvalidatort1.png)
 
+Test 2
 ![Test 2](assets/images/cssvalidatort2.png)
+
+#### Index HTML
+
+Test 1
+![Test 1](assets/images/indexvalidt1.png)
+
+Test 2
+![Test 2](assets/images/indexvalidt2.png)
+
+#### Automation HTML
+
+Test 1
+![Test 1](assets/images/autovalidt1.png)
+
+Test 2
+![Test 2](assets/images/autovalidt2.png)
+
+#### Globalisation HTML
+
+Test 1
+![Test 1](assets/images/globvalidt1.png)
+
+Test 2
+![Test 2](assets/images/globvalidt2.png)
+
+#### Contact HTML
+
+Test 1
+![Test 1](assets/images/contvalidt1.png)
+
+Test 2
+![Test 2](assets/images/contvalidt2.png)
 
 In my next project, I will make sure to be more proactive in documenting
 testing as and when I encounter issues and provide the resolution that
