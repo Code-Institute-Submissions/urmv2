@@ -44,6 +44,19 @@ the globe.
     1. As a Returning or Frequent Visitor, I want to be able to have a number of different options towards 
         contacting the author.
 
+* Site Owner Goals
+    1. The Site Owner's goal is to utilise digital platforms to 
+        shape a personal portfolio of the author's academic research
+        and written work.
+    1. The Site Owner's goal will improve their chance of employability
+        by highlighting the capabilities of the author across a 
+        number of academic disciplines: Political Philosophy and 
+        Full Stack Development.
+    1. The Site Owner's indication towards this goal is the 
+        the choice to include a contact page for the author to promote 
+        collaboration and allow potential employers or anyone that 
+        is interested in the site content, can reach out to the author.
+
 ### Design
 
 * Colour Scheme
@@ -57,7 +70,7 @@ the globe.
         Sans Serif as a fall back.
     * For the navigation bar and any other textual elements that can be considered as a logo, Roboto Slab
         has been utilised to define these textual elements as seperate from the content within the page.
-        This has Serif has a fallback, also complementing the nature of a defined element of text away from
+        This has Serif as a fallback, also complementing the nature of a defined element of text away from
         the remaining content.
 
 * Imagery
@@ -71,30 +84,11 @@ the globe.
 * Wireframes
     * NEEDS LINK
 
-The external user goal is to create a platform for the user 
-to learn more about the topics covered within each article.
-While highlighting the previous work conducted by the author.
-Serving as a portfolio. 
-
-To complement this learning experience, other articles that 
-corroborate or could be considered as 'further reading' will 
-be included on each post.
-
-The site owner's goal is to utilise digital platforms to 
-shape a personal portfolio of the author's academic research
-and written work. This will improve their chance of employability
-by highlighting the capabilities of the author across a 
-number of academic disciplines: Political Philosophy and 
-Full Stack Development. Indicative of this goal is the 
-the choice to include a contact page for the author to promote 
-collaboration and allow potential employers or anyone that 
-is interested in the site content, can reach out to the author.
-
-[Wireframe](assets/images/wireframe.pdf)
+<!-- [Wireframe](assets/images/wireframe.pdf)
 
 Due to personal limitations, I diverged from the original wireframe
 to aid the creation of my website and improve the overall aesthetic
-theme throughout the pages.
+theme throughout the pages. -->
 
 ## Features
 
@@ -107,81 +101,98 @@ theme throughout the pages.
         the content. This ability is abetted by the use of academically-standardised
         Harvard referencing, which is likely to be a format that the reader understands
         and provides them all the information to find sources that are physical materials, 
-        such as books.
-            * To complement this ease of user-research further, any sources that are available
-                online have been directly linked to and accessible by the user.
+        such as books.            
+    * To complement this ease of user-research further, any sources that are available
+                online have been directly linked to and accessible by the user. This includes
+                pay-to-view content, free content and sources from mainstream media.
     * The navigation bar is also interactive by the provision of a collapsible button that
         allows the user to easily find their way to any page on the site. While still adhering
         to the visual appeal of the site when viewed on smaller devices.
 
-Features that will be included are a landing page, two
-blog pages - including real content written by the author, and a
-contact page. This will showcase the abilities of the author
-and provide insights into current affairs. One of the main
-features of the site will be to include third-party sources 
-and their appropriate links. This allows the user to explore
-the themes and content further, by their own volition. It
-gives the user a choice towards how much time they would
-like to dedicate to their research and the capabilities
-to do so. With this in mind, free content, partially-free
-content (such as free monthly allocated articles by sources
-such as New Statesman, The Atlantic, Foreign Affairs) and 
-pay-to-view content will be balanced and included to create
-a positive user experience, shaped by their own decisions. 
-
-The most interesting and time-consuming feature that was added
-was the modal buttons at the bottom of the two blog pages.
-Once clicked, these highlight all references used within the
-content and where available online, the use is able to click
-on the link and explore the material themselves.
-
 ### Features left to implement
 
-I would have liked to have included a carousel on the bottom
+* I would have liked to have included a carousel on the bottom
 of each page to link to any of the other pages across the
 site.
 
 ## Technologies Used
 
-I have utilised basic JavaScript functionality to complement
-the use of Bootstrap's functions.
+### Languages Used
+
+* [HTML 5](https://en.wikipedia.org/wiki/HTML5)
+* [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
+
+### Frameworks, Libraries & Programs Used
+
+1. [Bootstrap 4.5:](https://getbootstrap.com/docs/4.5/getting-started/introduction/)
+    - Bootstrap was used to assist with the responsiveness and styling of the website.
+1. [Google Fonts:](https://fonts.google.com/)
+    - Google fonts were used to import the 'Muli' and 'Roboto Slab' fonts into the style.css file which is used on all pages throughout the project.
+1. [Font Awesome:](https://fontawesome.com/)
+    - Font Awesome was used on all pages throughout the website to add icons for aesthetic and UX purposes.
+1. [jQuery:](https://jquery.com/)
+    - jQuery came with Bootstrap to make the navbar responsive and other Bootstrap functions.
+1. [Git](https://git-scm.com/)
+    - Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
+1. [GitHub:](https://github.com/)
+    - GitHub is used to store the projects code after being pushed from Git.
+1. [Balsamiq:](https://balsamiq.com/)
+    - Balsamiq was used to create the [wireframes](https://en.wikipedia.org/wiki/Website_wireframe) during the design process.
+1. [Microsoft Word:](https://www.microsoft.com/en-gb/microsoft-365/word)
+    - Was used to write the content and ensure that the grammatical nature of the content was preserved.    
+
 
 ## Testing
 
-Throughout the project, I have been viewing my site across a
+### Achieved Testing
+
+* Throughout the project, I have been viewing my site across a
 number of devices. Including mobiles, tablets, a range of monitors
 with different ratios and utilising the inspect element capability 
 on Google Chrome to give me further insight into how the site 
 functions across devices that I do not have access to.
 
-During this period, my main focus was to ensure that the site 
+* During this period, my main focus was to ensure that the site 
 was responsive, followed its theme and was as visually appealing
 and was useable across all devices.
 
-My largest issue has been with the navigation bar and footer.
+* My largest issue has been with the navigation bar and footer.
 This is due to issues with them overlapping or underlapping
 the primary page content. Their general size across the pages
 has also given me difficulties.
 
-The second issue I have run in to is making my pictures fully 
-responsive. In some instances, the picture becomes cropped at certain
-media queries and I have been unable to rectify this issue within
-the timeframe of the project.
+* Overcoming the aria-controls error I had when validating my code,
+    required me to refer to Stack Overflow.
 
-There are some final little aesthetic issues that I would like to fix.
-Such as changing the hyperlink text on the index page to match
-the theme of the rest of the page. On some devices elements also become 
-slightly unaligned, such as the URM on the top right of the navigation bar.
+* Overcoming the thin nature of the modal content
+    required me to refer to Stack Overflow.
+
+### Further Testing
+
+* In some instances, my pictures fully are not fully
+    responsive. The picture becomes cropped at certain
+    media queries and I have been unable to rectify this issue within
+    the timeframe of the project.
+
+### Known Issues
+
+* There are some final little aesthetic issues that I would like to fix:
+    * On some devices elements also become slightly unaligned, such as 
+        the URM on the top right of the navigation bar.
+    * When smaller devices are used in landscape mode, the footer on the
+        contact page seems to be much larger than on other devices.
+    * When smaller devices are used in landscape mode, some of the images can
+        also become shrunk.
 
 ### W3 Validators
 
 #### CSS
 
 Test 1
-![Test 1](assets/images/cssvalidatort1.png)
+[Test 1](assets/images/cssvalidatort1.png)
 
 Test 2
-![Test 2](assets/images/cssvalidatort2.png)
+[Test 2](assets/images/cssvalidatort2.png)
 
 #### Index HTML
 
@@ -227,11 +238,7 @@ Test 2
 Test 3
 ![Test 3](assets/images/contvalidt3.png)
 
-At present, I am unsure of how to overcome the issue relating 
-to aria-controls but I will run through this with my mentor.
 
-Overcame above issue by referring to this post on Stack Exchange:
-https://webmasters.stackexchange.com/questions/60241/w3c-validation-error-aria-controls-attribute-must-point-to-an-element-in-the-sa
 
 Checked all links across all pages lead to the relevant pages.
 
@@ -278,6 +285,9 @@ its Slack channels and, as a last resort, forum posts in Stack Overflow.
 
 I also referred to Clever Techie's Responsive Navbar with Bootstrap 4
 video on Youtube to aid its creation https://www.youtube.com/watch?v=L0uNai3XyKQ
+
+Overcame aria-controls issue by referring to this post on Stack Exchange:
+https://webmasters.stackexchange.com/questions/60241/w3c-validation-error-aria-controls-attribute-must-point-to-an-element-in-the-sa
 
 ## Screenshots across different devices
 
