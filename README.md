@@ -196,6 +196,8 @@ Evidence of these tests can be found below:
 
 [Test 2](assets/images/cssvalidatort2.png)
 
+[Test 3](assets/images/cssvalidatort3.png)
+
 #### Index HTML
 
 [Test 1](assets/images/indexvalidt1.png)
@@ -203,6 +205,8 @@ Evidence of these tests can be found below:
 [Test 2](assets/images/indexvalidt2.png)
 
 [Test 3](assets/images/indexvalidt3.png)
+
+[Test 4](assets/images/indexvalidt4.png)
 
 #### Automation HTML
 
@@ -231,6 +235,8 @@ Evidence of these tests can be found below:
 [Test 2](assets/images/contvalidt2.png)
 
 [Test 3](assets/images/contvalidt3.png)
+
+[Test 4](assets/images/contvalidt4.png)
 
 ## Deployment
 
