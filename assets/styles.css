@@ -199,6 +199,16 @@ body {
     border-color: #d37a31;
 }
 
+.blog-img {
+    top: 30px;
+    height: 100%;
+}
+
+.blog-img-int {
+    width: 60vw;
+    height: 100%;
+}
+
 /* Modal Credits: https://stackoverflow.com/questions/20944334/how-to-center-a-modal-window-on-a-page */
 
 .modal {
