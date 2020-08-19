@@ -44,6 +44,33 @@ the globe.
     1. As a Returning or Frequent Visitor, I want to be able to have a number of different options towards 
         contacting the author.
 
+### Design
+
+* Colour Scheme
+    * The colour scheme used has been a light slate grey and darker orange. This is to create a
+        visually appealing site that is akin to the _Night Mode_ found across a plethora of devices.
+
+* Typography
+    * There have been two fonts used throughout the project. Muli is the main font used throughout the
+        website due to the author's preference. It has a clean and flippant style which highlights
+        the tongue-in-cheek nature of the website name and author's style. This is complemented with
+        Sans Serif as a fall back.
+    * For the navigation bar and any other textual elements that can be considered as a logo, Roboto Slab
+        has been utilised to define these textual elements as seperate from the content within the page.
+        This has Serif has a fallback, also complementing the nature of a defined element of text away from
+        the remaining content.
+
+* Imagery
+    * Images have been used on each page to create a more visually appealing experience for the user. The only
+        page where an image will not be present is the contact page on smaller devices. This is to keep the contact
+        page concise and easy to navigate as it has little content within. On larger devices it gives the user a visual
+        impression of who the author is.
+    * Across the other pages, images have been used to catch the user's eye and be representative of the content within.
+        On the Automation page, there has been two images included which corroborate with the content. 
+
+* Wireframes
+    * NEEDS LINK
+
 The external user goal is to create a platform for the user 
 to learn more about the topics covered within each article.
 While highlighting the previous work conducted by the author.
@@ -70,6 +97,22 @@ to aid the creation of my website and improve the overall aesthetic
 theme throughout the pages.
 
 ## Features
+
+* Responsive across all devices.
+
+* Interactive elements:
+    * The main interactive element found on this site is the modal at the 
+        bottom of the blog pages. This gives the user the ability to conduct
+        their own research towards any information they find interesting within
+        the content. This ability is abetted by the use of academically-standardised
+        Harvard referencing, which is likely to be a format that the reader understands
+        and provides them all the information to find sources that are physical materials, 
+        such as books.
+            * To complement this ease of user-research further, any sources that are available
+                online have been directly linked to and accessible by the user.
+    * The navigation bar is also interactive by the provision of a collapsible button that
+        allows the user to easily find their way to any page on the site. While still adhering
+        to the visual appeal of the site when viewed on smaller devices.
 
 Features that will be included are a landing page, two
 blog pages - including real content written by the author, and a
