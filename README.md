@@ -164,8 +164,7 @@ has also given me difficulties.
 * Overcoming the aria-controls error I had when validating my code,
     required me to refer to Stack Overflow.
 
-* Overcoming the thin nature of the modal content
-    required me to refer to Stack Overflow.
+* Checked all links across all pages lead to the relevant pages.
 
 ### Further Testing
 
@@ -184,80 +183,104 @@ has also given me difficulties.
     * When smaller devices are used in landscape mode, some of the images can
         also become shrunk.
 
+* One visual issue that I am unable to overcome is the margins when switching to
+    the Galaxy Fold emulator on Google Chrome's inspect function. Unsure whether this
+    is a browser issue or an issue that relates to my code. Is not affected
+    on any other emulated devices, though it does carry this issue through
+    after clicking on another emulated device. This latter aspect inspires
+    confidence that is a Chrome issue, rather than with my own code.
+
 ### W3 Validators
+
+The W3C Markup Validator and W3C CSS Validator Services were used to validate every page. 
+This led to a number of errors being present and resolutions needed to overcome said issues.
+Evidence of these tests can be found below:
 
 #### CSS
 
-Test 1
 [Test 1](assets/images/cssvalidatort1.png)
 
-Test 2
 [Test 2](assets/images/cssvalidatort2.png)
 
 #### Index HTML
 
-Test 1
-![Test 1](assets/images/indexvalidt1.png)
+[Test 1](assets/images/indexvalidt1.png)
 
-Test 2
-![Test 2](assets/images/indexvalidt2.png)
+[Test 2](assets/images/indexvalidt2.png)
 
-Test 3
-![Test 3](assets/images/indexvalidt3.png)
+[Test 3](assets/images/indexvalidt3.png)
 
 #### Automation HTML
 
-Test 1
-![Test 1](assets/images/autovalidt1.png)
+[Test 1](assets/images/autovalidt1.png)
 
-Test 2
-![Test 2](assets/images/autovalidt2.png)
+[Test 2](assets/images/autovalidt2.png)
 
-Test 3
-![Test 3](assets/images/autovalidt3.png)
+[Test 3](assets/images/autovalidt3.png)
 
 #### Globalisation HTML
 
-Test 1
-![Test 1](assets/images/globvalidt1.png)
+[Test 1](assets/images/globvalidt1.png)
 
-Test 2
-![Test 2](assets/images/globvalidt2.png)
+[Test 2](assets/images/globvalidt2.png)
 
-Test 3
-![Test 3](assets/images/globvalidt3.png)
+[Test 3](assets/images/globvalidt3.png)
 
 #### Contact HTML
 
-Test 1
-![Test 1](assets/images/contvalidt1.png)
+[Test 1](assets/images/contvalidt1.png)
 
-Test 2
-![Test 2](assets/images/contvalidt2.png)
+[Test 2](assets/images/contvalidt2.png)
 
-Test 3
-![Test 3](assets/images/contvalidt3.png)
-
-
-
-Checked all links across all pages lead to the relevant pages.
-
-One visual issue that I am unable to overcome is the margins when switching to
-the Galaxy Fold emulator on Google Chrome's inspect function. Unsure whether this
-is a browser issue or an issue that relates to my code. Is not affected
-on any other emulated devices, though it does carry this issue through
-after clicking on another emulated device. This latter aspect inspires
-confidence that is a Chrome issue, rather than with my own code.
-
-In my next project, I will make sure to be more proactive in documenting
-testing as and when I encounter issues and provide the resolution that
-I arrived at to overcome the said issue.
+[Test 3](assets/images/contvalidt3.png)
 
 ## Deployment
 
-I have utilised GitHub Pages to deploy this site.
-This is due to the project being wholly created within GitPod and
-utilising the public functionality of GitHub.
+### GitHub Pages
+
+This project was deployed to GitHub pages for ease, as the project was written in Gitpod.
+It required the following steps:
+
+1. Log in to GitHub and locate the [GitHub Repository](https://github.com/)
+2. At the top of the Repository (not top of page), locate the "Settings" Button on the menu.
+3. Scroll down the Settings page until you locate the "GitHub Pages" Section.
+4. Under "Source", click the dropdown called "None" and select "Master Branch".
+5. The page will automatically refresh.
+6. Scroll back down through the page to locate the now published site [link](https://github.com) in the "GitHub Pages" section.
+
+### Forking the GitHub Repository
+
+By forking the GitHub Repository we make a copy of the original repository on our GitHub account to view and/or make changes without affecting the original repository by using the following steps...
+
+1. Log in to GitHub and locate the [GitHub Repository](https://github.com/)
+2. At the top of the Repository (not top of page) just above the "Settings" Button on the menu, locate the "Fork" Button.
+3. You should now have a copy of the original repository in your GitHub account.
+
+### Making a Local Clone
+
+1. Log in to GitHub and locate the [GitHub Repository](https://github.com/)
+2. Under the repository name, click "Clone or download".
+3. To clone the repository using HTTPS, under "Clone with HTTPS", copy the link.
+4. Open Git Bash
+5. Change the current working directory to the location where you want the cloned directory to be made.
+6. Type `git clone`, and then paste the URL you copied in Step 3.
+
+```
+$ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+```
+
+7. Press Enter. Your local clone will be created.
+
+```
+$ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+> Cloning into `CI-Clone`...
+> remote: Counting objects: 10, done.
+> remote: Compressing objects: 100% (8/8), done.
+> remove: Total 10 (delta 1), reused 10 (delta 1)
+> Unpacking objects: 100% (10/10), done.
+```
+
+Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository#cloning-a-repository-to-github-desktop) to retrieve pictures for some of the buttons and more detailed explanations of the above process.
 
 ## Credits
 
@@ -277,16 +300,16 @@ towards.
 
 ### Acknowledgements
 
-I have utilised extra information to allow me to create this page from
+* I have utilised extra information to allow me to create this page from
 Bootstrap's documentation and articles that can be found on W3. 
 
-For minor issues, I have read through the Code Institute's material, 
+* For minor issues, I have read through the Code Institute's material, 
 its Slack channels and, as a last resort, forum posts in Stack Overflow.
 
-I also referred to Clever Techie's Responsive Navbar with Bootstrap 4
+* I also referred to Clever Techie's Responsive Navbar with Bootstrap 4
 video on Youtube to aid its creation https://www.youtube.com/watch?v=L0uNai3XyKQ
 
-Overcame aria-controls issue by referring to this post on Stack Exchange:
+* Overcame aria-controls issue by referring to this post on Stack Exchange:
 https://webmasters.stackexchange.com/questions/60241/w3c-validation-error-aria-controls-attribute-must-point-to-an-element-in-the-sa
 
 ## Screenshots across different devices
