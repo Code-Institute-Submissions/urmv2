@@ -212,6 +212,8 @@ Evidence of these tests can be found below:
 
 [Test 3](assets/images/autovalidt3.png)
 
+[Test 4](assets/images/autovalidt4.png)
+
 #### Globalisation HTML
 
 [Test 1](assets/images/globvalidt1.png)
@@ -219,6 +221,8 @@ Evidence of these tests can be found below:
 [Test 2](assets/images/globvalidt2.png)
 
 [Test 3](assets/images/globvalidt3.png)
+
+[Test 4](assets/images/globvalidt4.png)
 
 #### Contact HTML
 
