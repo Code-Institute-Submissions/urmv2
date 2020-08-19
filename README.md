@@ -1,5 +1,7 @@
 # Universal Relations Media
 
+[View the live website here](https://tobinstonelake.github.io/urmv2/index.html)
+
 This is the first Milestone Project for the 
 Code Institute's Full Stack Developer course.
 
@@ -23,6 +25,24 @@ blog site for articles that relate to politics across
 the globe.
 
 ## UX
+
+### User Stories
+
+* First Time Visitor Goals
+    1. As a First Time Visitor, I want to be able to easily access the
+        authors own projects and contact page from the homepage and navigation bar.
+    1. As a First Time Visitor, I wish to be able to learn more about the content
+        that is presented across the site.
+    1. As a First Time Visitor I want to gain a perspective towards the capabilities
+        of the author's academic potential. In terms of both political theory and development.
+
+* Returning and Frequent Visitor Goals
+    1. As a Returning or Frequent Visitor, I want to be able to view the progession of the author's work.
+        Periodically and dynamically.
+    1. As a Returning or Frequent Visitor, I want to be able to easily contact the author to be able to 
+        colloborate and gain any extra information that they would like.
+    1. As a Returning or Frequent Visitor, I want to be able to have a number of different options towards 
+        contacting the author.
 
 The external user goal is to create a platform for the user 
 to learn more about the topics covered within each article.
