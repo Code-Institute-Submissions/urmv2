@@ -82,13 +82,7 @@ the globe.
         On the Automation page, there has been two images included which corroborate with the content. 
 
 * Wireframes
-    * NEEDS LINK
-
-<!-- [Wireframe](assets/images/wireframe.pdf)
-
-Due to personal limitations, I diverged from the original wireframe
-to aid the creation of my website and improve the overall aesthetic
-theme throughout the pages. -->
+    * [Wireframe](assets/images/wireframe.pdf)
 
 ## Features
 
