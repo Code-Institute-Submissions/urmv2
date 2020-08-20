@@ -217,7 +217,7 @@ site.
         is interested in the site content, can reach out to the author.
 
         1. Contact information can easily be found on the footer, across all pages, and through
-            a dedicated contact page. [Contact Page](assets/images/contactpg.png) [Footer Social Links](assets/images/socmed.png)
+            a dedicated contact page. [Contact Page](assets/images/contactpg.png) / [Footer Social Links](assets/images/socmed.png)
 
 ### Achieved Testing
 
@@ -288,51 +288,23 @@ Evidence of these tests can be found below:
 
 #### CSS
 
-[Test 1](assets/images/cssvalidatort1.png)
-
-[Test 2](assets/images/cssvalidatort2.png)
-
-[Test 3](assets/images/cssvalidatort3.png)
+[Test 1](assets/images/cssvalidatort1.png) / [Test 2](assets/images/cssvalidatort2.png) / [Test 3](assets/images/cssvalidatort3.png)
 
 #### Index HTML
 
-[Test 1](assets/images/indexvalidt1.png)
-
-[Test 2](assets/images/indexvalidt2.png)
-
-[Test 3](assets/images/indexvalidt3.png)
-
-[Test 4](assets/images/indexvalidt4.png)
+[Test 1](assets/images/indexvalidt1.png) / [Test 2](assets/images/indexvalidt2.png) / [Test 3](assets/images/indexvalidt3.png) / [Test 4](assets/images/indexvalidt4.png)
 
 #### Automation HTML
 
-[Test 1](assets/images/autovalidt1.png)
-
-[Test 2](assets/images/autovalidt2.png)
-
-[Test 3](assets/images/autovalidt3.png)
-
-[Test 4](assets/images/autovalidt4.png)
+[Test 1](assets/images/autovalidt1.png) / [Test 2](assets/images/autovalidt2.png) / [Test 3](assets/images/autovalidt3.png) / [Test 4](assets/images/autovalidt4.png)
 
 #### Globalisation HTML
 
-[Test 1](assets/images/globvalidt1.png)
-
-[Test 2](assets/images/globvalidt2.png)
-
-[Test 3](assets/images/globvalidt3.png)
-
-[Test 4](assets/images/globvalidt4.png)
+[Test 1](assets/images/globvalidt1.png) / [Test 2](assets/images/globvalidt2.png) / [Test 3](assets/images/globvalidt3.png) / [Test 4](assets/images/globvalidt4.png)
 
 #### Contact HTML
 
-[Test 1](assets/images/contvalidt1.png)
-
-[Test 2](assets/images/contvalidt2.png)
-
-[Test 3](assets/images/contvalidt3.png)
-
-[Test 4](assets/images/contvalidt4.png)
+[Test 1](assets/images/contvalidt1.png) / [Test 2](assets/images/contvalidt2.png) / [Test 3](assets/images/contvalidt3.png) / [Test 4](assets/images/contvalidt4.png)
 
 ## Deployment
 
