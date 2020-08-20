@@ -35,15 +35,15 @@ the globe.
         authors own projects and contact page from the homepage and navigation bar.
     1. As a First Time Visitor, I wish to be able to learn more about the content
         that is presented across the site.
-    1. As a First Time Visitor I want to gain a perspective towards the capabilities
+    1. As a First Time Visitor, I want to gain a perspective towards the capabilities
         of the author's academic potential. In terms of both political theory and development.
 
 * Returning and Frequent Visitor Goals
-    1. As a Returning or Frequent Visitor, I want to be able to view the progession of the author's work.
+    1. As a Returning or Frequent Visitor, I want to be able to view the progression of the author's work.
         Periodically and dynamically.
     1. As a Returning or Frequent Visitor, I want to be able to easily contact the author to be able to 
-        colloborate and gain any extra information that they would like.
-    1. As a Returning or Frequent Visitor, I want to be able to have a number of different options towards 
+        collaborate and gain any extra information that they would like.
+    1. As a Returning or Frequent Visitor, I want to be able to have several different options towards 
         contacting the author.
 
 * Site Owner Goals
@@ -71,17 +71,17 @@ the globe.
         the tongue-in-cheek nature of the website name and author's style. This is complemented with
         Sans Serif as a fall back.
     * For the navigation bar and any other textual elements that can be considered as a logo, Roboto Slab
-        has been utilised to define these textual elements as seperate from the content within the page.
+        has been utilised to define these textual elements as separate from the content within the page.
         This has Serif as a fallback, also complementing the nature of a defined element of text away from
         the remaining content.
 
 * Imagery
     * Images have been used on each page to create a more visually appealing experience for the user. The only
         page where an image will not be present is the contact page on smaller devices. This is to keep the contact
-        page concise and easy to navigate as it has little content within. On larger devices it gives the user a visual
+        page concise and easy to navigate as it has little content within. On larger devices, it gives the user a visual
         impression of who the author is.
     * Across the other pages, images have been used to catch the user's eye and be representative of the content within.
-        On the Automation page, there has been two images included which corroborate with the content. 
+        On the Automation page, there have been two images included which corroborate with the content. 
 
 * Wireframes
     * [Wireframe](assets/images/wireframe.pdf)
@@ -96,7 +96,7 @@ the globe.
         their own research towards any information they find interesting within
         the content. This ability is abetted by the use of academically-standardised
         Harvard referencing, which is likely to be a format that the reader understands
-        and provides them all the information to find sources that are physical materials, 
+        and provides the user with all the information to find sources that are physical materials, 
         such as books.            
     * To complement this ease of user-research further, any sources that are available
         online have been directly linked to and accessible by the user. This includes
@@ -129,9 +129,9 @@ site.
 1. [jQuery:](https://jquery.com/)
     - jQuery came with Bootstrap to make the navbar responsive and other Bootstrap functions.
 1. [Git](https://git-scm.com/)
-    - Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
+    - Git was used for version control by utilizing the Gitpod terminal to commit to Git and push to GitHub.
 1. [GitHub:](https://github.com/)
-    - GitHub is used to store the projects code after being pushed from Git.
+    - GitHub is used to store the project's code after being pushed from Git.
 1. [Balsamiq:](https://balsamiq.com/)
     - Balsamiq was used to create the [wireframes](https://en.wikipedia.org/wiki/Website_wireframe) during the design process.
 1. [Microsoft Word:](https://www.microsoft.com/en-gb/microsoft-365/word)
@@ -147,21 +147,21 @@ site.
         authors own projects and contact page from the homepage and navigation bar. 
 
         1. The navigation bar is fixed across all pages and links to each page. [Navigation Bar](assets/images/navbar.png)
-        2. On smaller devices the navigation links are combined into a dropdown button. [Button](assets/images/button.png)
+        2. On smaller devices, the navigation links are combined into a dropdown button. [Button](assets/images/button.png)
         3. The cards at the bottom of the homepage indicate what each page is about and has an easy to find button
             take the user to the relevant site. [Card](assets/images/card.png)
 
     1. As a First Time Visitor, I wish to be able to learn more about the content
         that is presented across the site.
 
-        1. At the bottom of each of the blog pages there is a modal which pop ups with all citations used
+        1. At the bottom of each of the blog pages, there is a modal which pops up with all citations used
             within the content. [Modal](assets/images/modalbtn.png)
         2. Once the modal has been opened, each source has been referenced following the Harvard
             referencing system. An industry standard for content of this nature. [Modal Content](assets/images/modcnt.png)
         3. Any sources, which are the majority, that can be found online have the relevant link to access
             the source. [Modal Link](assets/images/modlink.png)
 
-    1. As a First Time Visitor I want to gain a perspective towards the capabilities
+    1. As a First Time Visitor, I want to gain a perspective towards the capabilities
         of the author's academic potential. In terms of both political theory and development.
 
         1. The content of the page clearly conveys the authors academic potential.
@@ -169,23 +169,23 @@ site.
             it clearly conveys the technical capabilities towards their development skills.
 
 * Returning and Frequent Visitor Goals
-    1. As a Returning or Frequent Visitor, I want to be able to view the progession of the author's work.
+    1. As a Returning or Frequent Visitor, I want to be able to view the progression of the author's work.
         Periodically and dynamically.
 
         1. As the user returns to the site, the site will be updated with new articles as
             soon as they are completed.
 
     1. As a Returning or Frequent Visitor, I want to be able to easily contact the author to be able to 
-        colloborate and gain any extra information that they would like. [Contact Page](assets/images/contactpg.png)
+        collaborate and gain any extra information that they would like. [Contact Page](assets/images/contactpg.png)
 
         1. There is a contact page that can be easily accessed from the navigation bar and homepage.
-        2. Within this contact page, there are a number of mediums that could potentially lead to
+        2. Within this contact page, there are several mediums that could potentially lead to
             contacting the author.
 
     1. As a Returning or Frequent Visitor, I want to be able to have a number of different options towards 
         contacting the author.
 
-        1. On the footer, the social media links can be found across all pages. Allowing the user to
+        1. On the footer, social media links can be found across all pages. Allowing the user to
             contact the author dynamically, even if they are not on the contact page. [Social Links](assets/images/socmed.png)
         2. Email, YouTube, Facebook and LinkedIn information is provided on the contact page.
 
@@ -195,7 +195,7 @@ site.
         and written work.
 
         1. The site clearly conveys on the homepage cards the nature of the content that has been
-            written and which projects the content can be attributed from. [Original Source/Idea](assets/images/cardethos.png)
+            written and which projects the content can be attributed. [Original Source/Idea](assets/images/cardethos.png)
         2. With the use of the modal at the bottom of each page, any user can easily find the sources
             that the author amassed and based the written content on. [Modal Content](assets/images/modcnt.png)
 
@@ -212,9 +212,8 @@ site.
             eye for detail that the author has in presenting their own work. Across both disciplines. 
 
     1. The Site Owner's indication towards this goal is the 
-        the choice to include a contact page for the author to promote 
-        collaboration and allow potential employers or anyone that 
-        is interested in the site content, can reach out to the author.
+        choice to include a contact page for the author to promote 
+        collaboration and allow potential employers or anyone interested in the site content, can reach out to the author.
 
         1. Contact information can easily be found on the footer, across all pages, and through
             a dedicated contact page. [Contact Page](assets/images/contactpg.png) / [Footer Social Links](assets/images/socmed.png)
@@ -257,6 +256,7 @@ has also given me difficulties.
         contact page seems to be much larger than on other devices.
     * When smaller devices are used in landscape mode, some of the images can
         also become shrunk.
+    * On some devices, the Contact Page footer is very large.
 
 * One visual issue that I am unable to overcome is the margins when switching to
     the Galaxy Fold emulator on Google Chrome's inspect function. Unsure whether this
@@ -266,8 +266,8 @@ has also given me difficulties.
     confidence that is a Chrome issue, rather than with my own code.
 
 * I am unable to work out why there are two error messages on my index.html validation.
-    To my knowledge, I do have a h1 element, upon ther overlay, and I had the same issue
-    previously with my other html pages. They have been resolved, so I am unsure why this
+    To my knowledge, I do have a h1 element, upon the overlay, and I had the same issue
+    previously with my other HTML pages. They have been resolved, so I am unsure why this
     has not followed suit with the index page.
 
 ### Screenshots across different devices
