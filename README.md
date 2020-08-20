@@ -144,22 +144,22 @@ site.
 
 * First Time Visitor Goals
     1. As a First Time Visitor, I want to be able to easily access the
-        authors own projects and contact page from the homepage and navigation bar.
+        authors own projects and contact page from the homepage and navigation bar. 
 
-        1. The navigation bar is fixed across all pages and links to each page.
-        2. On smaller devices the navigation links are combined into a dropdown button.
+        1. The navigation bar is fixed across all pages and links to each page. [Navigation Bar](assets/images/navbar.png)
+        2. On smaller devices the navigation links are combined into a dropdown button. [Button](assets/images/button.png)
         3. The cards at the bottom of the homepage indicate what each page is about and has an easy to find button
-            take the user to the relevant site.
+            take the user to the relevant site. [Card](assets/images/card.png)
 
     1. As a First Time Visitor, I wish to be able to learn more about the content
         that is presented across the site.
 
         1. At the bottom of each of the blog pages there is a modal which pop ups with all citations used
-            within the content.
+            within the content. [Modal](assets/images/modalbtn.png)
         2. Once the modal has been opened, each source has been referenced following the Harvard
-            referencing system. An industry standard for content of this nature.
+            referencing system. An industry standard for content of this nature. [Modal Content](assets/images/modcnt.png)
         3. Any sources, which are the majority, that can be found online have the relevant link to access
-            the source.
+            the source. [Modal Link](assets/images/modlink.png)
 
     1. As a First Time Visitor I want to gain a perspective towards the capabilities
         of the author's academic potential. In terms of both political theory and development.
@@ -176,7 +176,7 @@ site.
             soon as they are completed.
 
     1. As a Returning or Frequent Visitor, I want to be able to easily contact the author to be able to 
-        colloborate and gain any extra information that they would like.
+        colloborate and gain any extra information that they would like. [Contact Page](assets/images/contactpg.png)
 
         1. There is a contact page that can be easily accessed from the navigation bar and homepage.
         2. Within this contact page, there are a number of mediums that could potentially lead to
@@ -186,7 +186,7 @@ site.
         contacting the author.
 
         1. On the footer, the social media links can be found across all pages. Allowing the user to
-            contact the author dynamically, even if they are not on the contact page.
+            contact the author dynamically, even if they are not on the contact page. [Social Links](assets/images/socmed.png)
         2. Email, YouTube, Facebook and LinkedIn information is provided on the contact page.
 
 * Site Owner Goals
@@ -195,9 +195,9 @@ site.
         and written work.
 
         1. The site clearly conveys on the homepage cards the nature of the content that has been
-            written and which projects the content can be attributed from.
+            written and which projects the content can be attributed from. [Original Source/Idea](assets/images/cardethos.png)
         2. With the use of the modal at the bottom of each page, any user can easily find the sources
-            that the author amassed and based the written content on.
+            that the author amassed and based the written content on. [Modal Content](assets/images/modcnt.png)
 
     1. The Site Owner's goal will improve their chance of employability
         by highlighting the capabilities of the author across a 
@@ -217,7 +217,7 @@ site.
         is interested in the site content, can reach out to the author.
 
         1. Contact information can easily be found on the footer, across all pages, and through
-            a dedicated contact page.
+            a dedicated contact page. [Contact Page](assets/images/contactpg.png) [Footer Social Links](assets/images/socmed.png)
 
 ### Achieved Testing
 
