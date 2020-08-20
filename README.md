@@ -2,6 +2,8 @@
 
 [View the live website here](https://tobinstonelake.github.io/urmv2/index.html)
 
+![Homepage](assets/images/hmpgreadmetop.png)
+
 This is the first Milestone Project for the 
 Code Institute's Full Stack Developer course.
 
@@ -268,6 +270,16 @@ has also given me difficulties.
     previously with my other html pages. They have been resolved, so I am unsure why this
     has not followed suit with the index page.
 
+### Screenshots across different devices
+
+![Homepage](assets/images/hmpgreadmetop.png)
+
+![Automation Blog](assets/images/respauto.png)
+
+![Globalisation Blog](assets/images/respglob.png)
+
+![Contact Page](assets/images/respcont.png)
+
 ### W3 Validators
 
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page. 
@@ -405,16 +417,6 @@ video on Youtube to aid its creation https://www.youtube.com/watch?v=L0uNai3XyKQ
 
 * Overcame aria-controls issue by referring to this post on Stack Exchange:
 https://webmasters.stackexchange.com/questions/60241/w3c-validation-error-aria-controls-attribute-must-point-to-an-element-in-the-sa
-
-## Screenshots across different devices
-
-![Homepage](assets/images/resphmpg.png)
-
-![Automation Blog](assets/images/respauto.png)
-
-![Globalisation Blog](assets/images/respglob.png)
-
-![Contact Page](assets/images/respcont.png)
 
 #### Port Used To View Real-Time Edits
 
