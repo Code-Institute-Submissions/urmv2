@@ -1,214 +1,221 @@
 /* Body */
 
 body {
-    background-color: #414040;
-    font-size: 1.25rem;
-    font-family: 'Muli', sans-serif;
+  background-color: #414040;
+  font-size: 1.25rem;
+  font-family: 'Muli', sans-serif;
 }
+
 
 /* NavBar */
 
 .navbar-logo {
-    font-weight: 800;
-    justify-content: left;
-    background-color: #414040;
-    }
+  font-weight: 800;
+  justify-content: left;
+  background-color: #414040;
+}
 
 .navbar-style {
-    margin: auto;
-    color:  #d37a31;
-    background-color: #414040;
-    font-family: 'Roboto Slab', serif;
-    position: fixed;
-    }
+  margin: auto;
+  color: #d37a31;
+  background-color: #414040;
+  font-family: 'Roboto Slab', serif;
+  position: fixed;
+}
 
 .navbar-style a {
-    color:  #d37a31;
-    background-color: #414040;
-    font-family: 'Roboto Slab', serif; 
-    font-size: 20px;
-    }
+  color: #d37a31;
+  background-color: #414040;
+  font-family: 'Roboto Slab', serif;
+  font-size: 20px;
+}
 
 .navbar-style li {
-    color:  #d37a31;
-    background-color: #414040;
-    font-family: 'Roboto Slab', serif;
-    }
+  color: #d37a31;
+  background-color: #414040;
+  font-family: 'Roboto Slab', serif;
+}
 
 .btn-outline-light {
-    color: #d37a31;
-    border-color: #d37a31;
-    }
+  color: #d37a31;
+  border-color: #d37a31;
+}
 
 .btn-outline-light:hover {
-    color: #d37a31;
-    background-color: #414040;
-    border-color: #d37a31;
+  color: #d37a31;
+  background-color: #414040;
+  border-color: #d37a31;
 }
 
 .small-nav-logo {
-    position: absolute;
-    top: 2.5vh;
-    right: 16px;
-    }
+  position: absolute;
+  top: 2.5vh;
+  right: 16px;
+}
+
 
 /* Homepage */
+
 
 /* Overlay */
 
 .hmpg-head {
-    height: 60vh;
-    background: url('../assets/images/bg_space.jpg') no-repeat center center fixed;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+  height: 60vh;
+  background: url('../assets/images/bg_space.jpg') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .overlay-hmpg {
-    color:  #d37a31;
-    font-family: 'Roboto Slab', serif;
-    padding: 5px;
-    border-radius: 5px;
-} 
+  color: #d37a31;
+  font-family: 'Roboto Slab', serif;
+  padding: 5px;
+  border-radius: 5px;
+}
+
 
 /* Homepage Bottom */
 
 .btm-hmpg {
-    margin: auto;
-    color: #d37a31;
-    display:flex;
-    align-items: center;
-    justify-content: center;
-    }
+  margin: auto;
+  color: #d37a31;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
 
 .btm-hmpg h2 {
-    font-family: 'Roboto Slab', serif;  
+  font-family: 'Roboto Slab', serif;
 }
 
 .btm-hmpg p {
-    font-family: 'Muli', sans-serif;  
+  font-family: 'Muli', sans-serif;
 }
 
 .hp-img {
-    display: flex;
-    position: relative;
-    width: 100%;
-    height: 30vh;
-    }
+  display: flex;
+  position: relative;
+  width: 100%;
+  height: 30vh;
+}
 
 .btn-warning {
-    color: #141516;
-    background-color: #d37a31;
-    border-color: #d37a31;
+  color: #141516;
+  background-color: #d37a31;
+  border-color: #d37a31;
 }
 
 .btn-warning a {
-    color: #141516;
+  color: #141516;
 }
 
 .hmpg-text {
-    margin-bottom: 5px;
+  margin-bottom: 5px;
 }
 
 .card-img-top {
-    width: 100%;
-    height: 40vh;
-    object-fit: cover;
+  width: 100%;
+  height: 40vh;
+  object-fit: cover;
 }
 
 .card {
-    position: relative;
-    display: -ms-flexbox;
-    display: flex;
-    -ms-flex-direction: column;
-    flex-direction: column;
-    min-width: 0;
-    word-wrap: break-word;
-    background-color: #414040;
-    background-clip: border-box;
-    border: 1px solid #d37a31;
-    border-radius: .25rem;
-    margin: 5px;
+  position: relative;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  min-width: 0;
+  word-wrap: break-word;
+  background-color: #414040;
+  background-clip: border-box;
+  border: 1px solid #d37a31;
+  border-radius: .25rem;
+  margin: 5px;
 }
+
 
 /* Footer */
 
 .footer-style {
-    z-index: 1;
-    display: flex;
-    padding: 15px 5px 5px;
-    color:  #d37a31;
-    background-color: #414040;
-    font-family: 'Roboto Slab', serif;
-    height: 100px;
-    align-content: center;
-    padding-top: 20px;
-    }
+  z-index: 1;
+  display: flex;
+  padding: 15px 5px 5px;
+  color: #d37a31;
+  background-color: #414040;
+  font-family: 'Roboto Slab', serif;
+  height: 100px;
+  align-content: center;
+  padding-top: 20px;
+}
 
 .footer-style a {
-    color:  #d37a31;
-    padding-top: 20px;
-    padding-bottom: 5px;
-    }
+  color: #d37a31;
+  padding-top: 20px;
+  padding-bottom: 5px;
+}
 
 .footer-style p {
-    color:  #d37a31;
-    padding-top: 20px;
-    padding-bottom: 5px;
-    }
+  color: #d37a31;
+  padding-top: 20px;
+  padding-bottom: 5px;
+}
 
 .footer-logo {
-    font-weight: 800;
-    background-color: #414040;
-    padding-top: 20px;
-    padding-bottom: 5px;
-    }
+  font-weight: 800;
+  background-color: #414040;
+  padding-top: 20px;
+  padding-bottom: 5px;
+}
 
 .ftr-soc-lnk {
-    font-size:  x-large;
+  font-size: x-large;
 }
+
 
 /* Blog */
 
 .blog-auto {
-    position: relative;
-    display: -ms-flexbox;
-    display: inline-flex;
-    -ms-flex-direction: column;
-    flex-direction: column;
-    min-width: 0;
-    word-wrap: break-word;
-    background-color: #414040;
-    color: #d37a31;
-    font-family: 'Muli', sans-serif;
-    background-clip: border-box;
-    border-radius: .25rem;
-    margin: 5px;
-    top: 30px;
+  position: relative;
+  display: -ms-flexbox;
+  display: inline-flex;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  min-width: 0;
+  word-wrap: break-word;
+  background-color: #414040;
+  color: #d37a31;
+  font-family: 'Muli', sans-serif;
+  background-clip: border-box;
+  border-radius: .25rem;
+  margin: 5px;
+  top: 30px;
 }
 
 .btn-primary-blog {
-    margin-top: 15px;
-    margin-bottom: 40px;
-    background-color: #d37a31; 
-    color: #414040;
-    border-color: #d37a31;
+  margin-top: 15px;
+  margin-bottom: 40px;
+  background-color: #d37a31;
+  color: #414040;
+  border-color: #d37a31;
 }
 
 .blog-img {
-    top: 1rem;
-    height: auto;
-    max-height: 500px;
+  top: 1rem;
+  height: auto;
+  max-height: 500px;
 }
 
 .blog-img-int {
-    width: 60vw;
-    height: 100%;
+  width: 60vw;
+  height: 100%;
 }
+
 
 /* Modal Credits: https://stackoverflow.com/questions/20944334/how-to-center-a-modal-window-on-a-page */
 
@@ -223,40 +230,42 @@ body {
   vertical-align: middle;
 }
 
-.modal-content li{
+.modal-content li {
   margin: 10px 0;
 }
 
+
 /* Contact Page */
 
-.jumbotron {  
-    padding: 2rem 1rem;
-    margin-bottom: 2rem;
-    margin-top: 5rem;
-    background-color: #d37a31d2;
-    color: #414040;
-    border-radius: .3rem; 
+.jumbotron {
+  padding: 2rem 1rem;
+  margin-bottom: 2rem;
+  margin-top: 5rem;
+  background-color: #d37a31d2;
+  color: #414040;
+  border-radius: .3rem;
 }
 
 .jumbotron a {
-    color: #414040;
-} 
-
-.jumbotron img {
-    height: 350px;
-    width: 400px;
-} 
-
-.display-4 {
-    text-transform: uppercase;
+  color: #414040;
 }
 
-.table td, .table th {
-    border-top: 1px solid #343a40;
+.jumbotron img {
+  height: 350px;
+  width: 400px;
+}
+
+.display-4 {
+  text-transform: uppercase;
+}
+
+.table td,
+.table th {
+  border-top: 1px solid #343a40;
 }
 
 .contact-disclaimer {
-    color: #d37a31d2;
-    margin: 15px;
+  color: #d37a31d2;
+  margin: 15px;
 }
 
