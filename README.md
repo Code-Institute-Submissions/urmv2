@@ -97,8 +97,8 @@ the globe.
         and provides them all the information to find sources that are physical materials, 
         such as books.            
     * To complement this ease of user-research further, any sources that are available
-                online have been directly linked to and accessible by the user. This includes
-                pay-to-view content, free content and sources from mainstream media.
+        online have been directly linked to and accessible by the user. This includes
+        pay-to-view content, free content and sources from mainstream media.
     * The navigation bar is also interactive by the provision of a collapsible button that
         allows the user to easily find their way to any page on the site. While still adhering
         to the visual appeal of the site when viewed on smaller devices.
@@ -137,6 +137,85 @@ site.
 
 
 ## Testing
+
+### Testing User Stories from User Experience (UX) Section
+
+* First Time Visitor Goals
+    1. As a First Time Visitor, I want to be able to easily access the
+        authors own projects and contact page from the homepage and navigation bar.
+
+        1. The navigation bar is fixed across all pages and links to each page.
+        2. On smaller devices the navigation links are combined into a dropdown button.
+        3. The cards at the bottom of the homepage indicate what each page is about and has an easy to find button
+            take the user to the relevant site.
+
+    1. As a First Time Visitor, I wish to be able to learn more about the content
+        that is presented across the site.
+
+        1. At the bottom of each of the blog pages there is a modal which pop ups with all citations used
+            within the content.
+        2. Once the modal has been opened, each source has been referenced following the Harvard
+            referencing system. An industry standard for content of this nature.
+        3. Any sources, which are the majority, that can be found online have the relevant link to access
+            the source.
+
+    1. As a First Time Visitor I want to gain a perspective towards the capabilities
+        of the author's academic potential. In terms of both political theory and development.
+
+        1. The content of the page clearly conveys the authors academic potential.
+        2. Due to the nature of this being a website also built by the content author, 
+            it clearly conveys the technical capabilities towards their development skills.
+
+* Returning and Frequent Visitor Goals
+    1. As a Returning or Frequent Visitor, I want to be able to view the progession of the author's work.
+        Periodically and dynamically.
+
+        1. As the user returns to the site, the site will be updated with new articles as
+            soon as they are completed.
+
+    1. As a Returning or Frequent Visitor, I want to be able to easily contact the author to be able to 
+        colloborate and gain any extra information that they would like.
+
+        1. There is a contact page that can be easily accessed from the navigation bar and homepage.
+        2. Within this contact page, there are a number of mediums that could potentially lead to
+            contacting the author.
+
+    1. As a Returning or Frequent Visitor, I want to be able to have a number of different options towards 
+        contacting the author.
+
+        1. On the footer, the social media links can be found across all pages. Allowing the user to
+            contact the author dynamically, even if they are not on the contact page.
+        2. Email, YouTube, Facebook and LinkedIn information is provided on the contact page.
+
+* Site Owner Goals
+    1. The Site Owner's goal is to utilise digital platforms to 
+        shape a personal portfolio of the author's academic research
+        and written work.
+
+        1. The site clearly conveys on the homepage cards the nature of the content that has been
+            written and which projects the content can be attributed from.
+        2. With the use of the modal at the bottom of each page, any user can easily find the sources
+            that the author amassed and based the written content on.
+
+    1. The Site Owner's goal will improve their chance of employability
+        by highlighting the capabilities of the author across a 
+        number of academic disciplines: Political Philosophy and 
+        Full Stack Development.
+
+        1. The content included has been the highest graded pieces of work that the author has written.
+            Therefore, it reflects the most academically sound ability of the author.
+        2. By using a digital platform to showcase the author's work, it conveys the development ability
+            that the author also has.
+        3. The choice towards the aesthetic design principles across the site highlights the creative
+            eye for detail that the author has in presenting their own work. Across both disciplines. 
+
+    1. The Site Owner's indication towards this goal is the 
+        the choice to include a contact page for the author to promote 
+        collaboration and allow potential employers or anyone that 
+        is interested in the site content, can reach out to the author.
+
+        1. Contact information can easily be found on the footer, across all pages, and through
+            a dedicated contact page.
 
 ### Achieved Testing
 
@@ -183,6 +262,11 @@ has also given me difficulties.
     on any other emulated devices, though it does carry this issue through
     after clicking on another emulated device. This latter aspect inspires
     confidence that is a Chrome issue, rather than with my own code.
+
+* I am unable to work out why there are two error messages on my index.html validation.
+    To my knowledge, I do have a h1 element, upon ther overlay, and I had the same issue
+    previously with my other html pages. They have been resolved, so I am unsure why this
+    has not followed suit with the index page.
 
 ### W3 Validators
 
@@ -304,6 +388,12 @@ towards.
 
 ### Acknowledgements
 
+* Thanks to my housemate, girlfriend, mother and other friends in looking at this project 
+and conveying that they can view the content and access the interactive functions on their own devices.
+
+* Thanks to my Code Institute Tutor, Mentor and Student Support team in offering me advice and support
+during the creation of this project.
+
 * I have utilised extra information to allow me to create this page from
 Bootstrap's documentation and articles that can be found on W3. 
 
@@ -326,6 +416,6 @@ https://webmasters.stackexchange.com/questions/60241/w3c-validation-error-aria-c
 
 ![Contact Page](assets/images/respcont.png)
 
-#### Port
+#### Port Used To View Real-Time Edits
 
 python3 -m http.server
