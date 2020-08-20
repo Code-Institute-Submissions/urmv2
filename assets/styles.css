@@ -201,7 +201,8 @@ body {
 
 .blog-img {
     top: 1rem;
-    height: 75vh;
+    height: auto;
+    max-height: 500px;
 }
 
 .blog-img-int {
